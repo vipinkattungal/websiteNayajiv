@@ -8,6 +8,8 @@ import UseSticky from '@/hooks/UseSticky';
 import { useSelector } from "react-redux";
 import OnPageMenu from './Menu/OnPageMenu';
 import LogoHomeOne from "@/assets/img/logo/logo.png";
+import njlogo from "@/assets/img/logo/njlog1.png";
+
 import OnePageOffcanvas from './Menu/OnePageOffcanvas';
 import HeaderCart from '@/components/common/HeaderCart';
 import HeaderSearch from '@/components/common/HeaderSearch';
@@ -37,7 +39,7 @@ const HeaderOne = ({ style, onePageHomeOne, onePageHomeTwo }: styleType) => {
                 <div className={`${style ? "col-xl-3" : "col-xl-2"} col-lg-6 col-md-6 col-6`}>
                   <div className="logo">
                     <Link href="/">
-                      <Image data-width="115" style={{ width: '115px', height: 'auto' }} src={LogoHomeOne} alt="image-title" />
+                      <Image data-width="115" style={{ width: '115px', height: 'auto' }} src={njlogo} alt="image-title" />
                     </Link>
                   </div>
                 </div>

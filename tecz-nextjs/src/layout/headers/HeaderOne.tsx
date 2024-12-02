@@ -31,6 +31,7 @@ const HeaderOne = ({ style, onePageHomeOne, onePageHomeTwo }: styleType) => {
 
   return (
     <>
+    
       <header>
         <div id="header-sticky" className={`tp-header-area tp-header-transparent tp-header-height theme-bg ${sticky ? "header-sticky" : ""}`}>
           <div className="container">

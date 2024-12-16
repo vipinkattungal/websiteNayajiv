@@ -15,7 +15,7 @@ const BottomCtaAreaHomeTwo = () => {
             </div>
             <div className="col-xl-4 col-lg-6">
               <div className="tp-cta-three-content wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
-                <h4 className="tp-cta-three-title">Tecz Always Ready For Solve Your Problem</h4>
+                <h4 className="tp-cta-three-title">Nayajiv Always Ready For Solve Your Problem</h4>
               </div>
             </div>
             <div className="offset-xl-4 col-xl-3 col-lg-4">

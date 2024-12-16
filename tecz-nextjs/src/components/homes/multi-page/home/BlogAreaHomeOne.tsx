@@ -5,7 +5,7 @@ import Link from 'next/link';
 import React from 'react';
 
 const blog_content = {
-  sub_title: "Our Latest Update",
+  sub_title: "Oxur Latest Update",
   title: "Read Our Latest News",
 }
 const {sub_title, title}  = blog_content

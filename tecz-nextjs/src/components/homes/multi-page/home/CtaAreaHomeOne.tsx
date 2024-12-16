@@ -8,7 +8,7 @@ type  DataType = {
 }
 
 const cta_content: DataType = {
-  title: "Tecz Always Ready For Solve Your Problem",
+  title: "Nayajiv Always Ready For Solve Your Problem",
   btn_text: "Discover More",
 }
 const {title, btn_text}  = cta_content

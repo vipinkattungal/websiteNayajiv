@@ -19,7 +19,7 @@ const HomeTwoOnePage = () => {
     <>
       <HeaderOne style={true} onePageHomeTwo={true} />
       <main>
-        <HeroAreaHomeOne />
+        {/* <HeroAreaHomeOne /> */}
         <BrandAreaHomeArea />
         <ServicesAreaHomeTwo onPageStyle={true} />
         <AboutAreaHomeTwo />

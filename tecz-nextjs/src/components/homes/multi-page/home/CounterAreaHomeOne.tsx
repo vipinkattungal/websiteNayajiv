@@ -13,19 +13,19 @@ const counter_data: DataType[] = [
   {
     id: 1,
     icon: "flaticon-project-management",
-    counter_number: 3480,
+    counter_number: 160,
     title: "Project Completed",
   },
   {
     id: 2,
     icon: "flaticon-consultant",
-    counter_number: 428,
+    counter_number: 60,
     title: "IT Specialist",
   },
   {
     id: 3,
     icon: "flaticon-project-management",
-    counter_number: 6980,
+    counter_number: 200,
     title: "Happy Clients",
   },
   {

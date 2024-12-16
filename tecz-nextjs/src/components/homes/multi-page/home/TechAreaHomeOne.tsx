@@ -21,18 +21,18 @@ type DataType = {
 
 const tech_content: DataType = {
   sub_title: "What Else Here",
-  title: "The Best Tech Solutions for Our Clients",
-  info: <>Tecz is a provider of IT consulting and software development services. We have helped organizations and companies <br /> improve business performance</>,
+  title: "Transforming Ideas into Digital Success",
+  info: <>At Nayajiv, we bring your vision to life through innovative technology solutions tailored to your business needs. From concept to implementation, we focus on delivering cutting-edge software and IT strategies that drive efficiency, enhance performance, and create meaningful impact. Our expertise transforms your ideas into seamless digital experiences, empowering your business to thrive in an ever-evolving digital landscape</>,
   tech_data: [
     {
       id: 1,
       title: "Deliver Perfect Solution",
-      info: <>Donec suscipit ante ipsum. Donec convallis <br /> quam at tortor hendrerit ut</>,
+      info: <>We deliver high-quality, tailored solutions with technical expertise and a client-first approach, ensuring every project exceeds expectations</>,
     },
     {
       id: 2,
       title: "Work With Global Brands",
-      info: <>Donec suscipit ante ipsum. Donec convallis <br /> quam at tortor hendrerit ut</>,
+      info: <>We collaborate with global brands to create transformative digital experiences, earning trust through innovation and reliability to help businesses reach new heights</>,
     },
   ]
 }

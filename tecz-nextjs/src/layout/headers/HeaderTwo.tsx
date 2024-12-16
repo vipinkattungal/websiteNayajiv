@@ -29,7 +29,7 @@ const header_two_content: DataType = {
   top_info: ["Help", "Support", "Contact",],
   btn_text: "Get Solution",
   help_text: "Need help? Talk to an expert",
-  phone_number: "+99 (786) 8765",
+  phone_number: "+91 7907097373",
 }
 const { address, email, top_info, btn_text, help_text, phone_number } = header_two_content
 

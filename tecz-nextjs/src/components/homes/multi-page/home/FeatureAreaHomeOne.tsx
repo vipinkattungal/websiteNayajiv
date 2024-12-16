@@ -16,22 +16,22 @@ const feature_data: DataType[] = [
     id: 1,
     fade: "fadeInRight",
     icon: "flaticon-solution-1",
-    title: <>Best Business <br /> Solution</>,
-    sm_info: "We offers a full-cycle development services that meet business",
+    title: <>Web <br /> Development</>,
+    sm_info: "Our web development services focus on creating dynamic, responsive, and user-friendly websites tailored to your business needs. From sleek designs to seamless functionality, we combine cutting-edge technologies with best practices to deliver exceptional online experiences that drive growth and engagement",
   },
   {
     id: 2,
     fade: "fadeInUp",
     icon: "flaticon-search-engine",
-    title: <>Business Growth <br /> Planning</>,
-    sm_info: "We offers a full-cycle development services that meet business",
+    title: <>Mobile App <br /> Development</>,
+    sm_info: "We specialize in crafting intuitive, high-performance mobile applications for iOS and Android. Our solutions are designed to meet your business goals, offering seamless user experiences, robust functionality, and scalability. Whether it's a native app or a cross-platform solution, we bring your ideas to life with precision and innovation",
   },
   {
     id: 3,
     fade: "fadeInLeft",
     icon: "flaticon-speed",
-    title: <>Search Engine <br /> Optimization</>,
-    sm_info: "We offers a full-cycle development services that meet business",
+    title: <>AI <br /> Powered Solution</>,
+    sm_info: "Leverage the power of artificial intelligence to transform your business. Our AI-powered solutions are designed to enhance efficiency, automate processes, and deliver data-driven insights. From predictive analytics to intelligent automation, we create innovative systems that empower smarter decision-making and drive growth.",
   },
 ]
 

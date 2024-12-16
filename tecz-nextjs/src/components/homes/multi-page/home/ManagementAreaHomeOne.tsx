@@ -17,20 +17,20 @@ interface DataType {
 }
 const management_content: DataType = {
   sub_title: "Tech Management",
-  title: "Let's Build Your Success With Tecz Solution",
-  info: "Lorem ipsum is simply free text dolor sit am adipi we help you ensure everyone.",
+  title: "Empowering Your Success with Nayajiv Technologies – Innovation That Sets You Apart",
+  info: "",
   management_data: [
     {
       id: 1,
       icon: "flaticon-data-protection",
       title: "Data Protection",
-      info: "We've designed a culture that allows our <br /> stewards to assimilate",
+      info: "We've cultivated a system that ensures your data is secure, compliant, and resilient against any threat",
     },
     {
       id: 1,
       icon: "flaticon-optimization",
       title: "Optimize IT System ",
-      info: "We've designed a culture that allows our <br /> stewards to assimilate",
+      info: "Our approach fosters innovation and efficiency, enabling your IT systems to deliver unmatched performance",
     },
   ]
 }

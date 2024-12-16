@@ -12,7 +12,7 @@ type DataType = {
 }
 
 const hero_content: DataType = {
-  title_1: "TECZ IT",
+  title_1: "NAYAJIV",
   title_2: "& CREATIVE",
   title_3: "SOLUTION",
   info: <>Web designing in a powerful way of just not an only <br /> professions, however, in a passion.</>,

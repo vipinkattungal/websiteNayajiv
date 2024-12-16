@@ -8,13 +8,13 @@ import video_img_2 from "@/assets/img/about/five/about-5-thumb-2.jpg";
 
 const video_content = {
   call_text: "Call Anytime",
-  phone: "+99 (786) 8765",
+  phone: "+91 7907097373",
   sub_title: "Check Our Benifits",
   title: "We're Partner of Your Innovations",
-  info: "System is a term used to refer to an organized collection symbols and processes that may  be used to operate on such symbols. Perspiciatis omnis natus error voupems accusa",
-  title_info: "Lorem ipsum is simply free text dolor sit <br /> am adipi we daily ipsum",
-  feature_1: "Perspiciatis omnis natus error",
-  feature_2: "Donec gravida imperdie",
+  info: "Nayajiv Technologies is a Bangalore-based software development company offering innovative solutions to businesses worldwide. We specialize in web development, mobile app development, CRM, ERP, AI integration, and enterprise software. Our expert team delivers custom solutions tailored to optimize operations, enhance productivity, and foster growth.With expertise across various industries including healthcare, finance, and retail, we help businesses stay competitive by providing scalable, secure, and efficient technology solutions. Our focus on customer satisfaction and long-term partnerships ensures seamless integration and ongoing support.",
+  title_info: "Driving Digital Transformation Through Custom Solutions",
+  feature_1: "Innovation",
+  feature_2: "Quality",
   name: "Harry Newman",
   job_title: "Co Founder",
 

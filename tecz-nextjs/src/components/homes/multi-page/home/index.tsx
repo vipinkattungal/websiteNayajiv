@@ -29,7 +29,7 @@ const HomeOne = () => {
       <ServicesAreaHomeOne />
       <BrandAreaHomeArea />
       <SolveAreaHomeOne />
-      <BlogAreaHomeOne />
+      {/* <BlogAreaHomeOne /> */}
       <CtaAreaHomeOne /> 
       <GoogleMap />
     </main>

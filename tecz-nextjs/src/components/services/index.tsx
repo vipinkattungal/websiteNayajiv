@@ -18,7 +18,7 @@ const Services = () => {
         <Breadcrumb top_title='Services' title='Our Services' />
         <FeatureAreaHomeOne style={true} />
         <OfferingAreaHomeThree />
-        <PricingAreaHomeFive style={true} />
+        {/* <PricingAreaHomeFive style={true} /> */}
         <BrandAreaHomeThree style={true} />
         <TeamFormArea />
         <CtaAreaHomeOne />

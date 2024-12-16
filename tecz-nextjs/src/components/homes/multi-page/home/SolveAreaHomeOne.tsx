@@ -24,13 +24,13 @@ const solve_content = {
     {
       id: 1,
       icon: "flaticon-apple",
-      title: "ISO",
+      title: "IOS",
       duration: ".4s",
     },
     {
       id: 1,
       icon: "flaticon-internet-of-things",
-      title: "ITO",
+      title: "IOT",
       duration: ".4s",
     },
     {
@@ -42,7 +42,7 @@ const solve_content = {
     {
       id: 1,
       icon: "flaticon-tv",
-      title: "TV",
+      title: "AI",
       duration: ".6s",
     },
   ]

@@ -7,18 +7,23 @@ import ManagementAreaHomeOne from '@/components/homes/multi-page/home/Management
 import FooterOne from '@/layout/footers/FooterOne';
 import HeaderTwo from '@/layout/headers/HeaderTwo'; 
 import AboutTeamArea from './AboutTeamArea';
+import StepAreaHomeTwo from '@/components/homes/multi-page/home-2/StepAreaHomeTwo';
 import BottomCtaAreaHomeTwo from '@/components/homes/multi-page/home-2/BottomCtaAreaHomeTwo'; 
-
+import HeroAreaHomeTwo from '@/components/homes/multi-page/home-2/HeroAreaHomeTwo'; 
+import HeaderOne from '@/layout/headers/HeaderOne';
 const About = () => {
   return (
     <>
-      <HeaderTwo />
+      <HeaderOne />
       <main>
-        <Breadcrumb top_title='About' title='About Us' />
+      <HeroAreaHomeTwo />
+
+        {/* <Breadcrumb top_title='About' title='About Us' /> */}
         <VideoAreaHomeFive style={true} />
         <FeatureAreaHomeOne style={true} />
-        <CounterAreaHomeOne />
-        <ManagementAreaHomeOne />
+        {/* <CounterAreaHomeOne /> */}
+        <StepAreaHomeTwo/>
+        {/* <ManagementAreaHomeOne /> */}
         <AboutTeamArea />
         <BottomCtaAreaHomeTwo />
       </main>

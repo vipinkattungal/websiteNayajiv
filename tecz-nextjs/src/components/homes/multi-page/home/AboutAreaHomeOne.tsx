@@ -3,6 +3,10 @@ import React from 'react';
 import Image from 'next/image';
 
 import about_thumb_1 from "@/assets/img/about/one/about-thumb-1.jpg";
+import about_thumb_5 from "@/assets/img/about/one/img.jpg";
+import about_thumb_6 from "@/assets/img/about/one/img2-removebg-preview.png";
+
+
 import about_thumb_2 from "@/assets/img/about/one/about-thumb-2.jpg";
 import about_shape_1 from "@/assets/img/about/one/about-shape-1.png";
 import avatar_img from "@/assets/img/about/one/avatar-1.png";
@@ -29,21 +33,21 @@ type DataType = {
 const about_content: DataType = {
   exprience_year: '25',
   exprience_title: <>Years <br /> Experience</>,
-  sub_title: "Hey! We Are Tecz",
+  sub_title: "Hey! We Are Nayajiv",
   title: "We Always Try to Give Smart Solution For Business",
-  sm_des: "System is a term used to refer to an organized collection symbols and processes that may be used to operate on such symbols. Perspiciatis omnis natus error voupems accusa",
+  sm_des: "At Nayjiv, we are committed to delivering innovative and intelligent software solutions that empower businesses to thrive in a competitive landscape. By combining cutting-edge technology with strategic insights, we craft tailored systems designed to streamline operations, enhance productivity, and drive sustainable growth. Your success is our priority, and we always strive to deliver smarter, future-ready solutions for your business",
   about_info_data: [
     {
       id: 1,
       icon: "flaticon-server",
       title: "Cloud Based",
-      sm_info: <>There are many variations of available but the <br /> majority have suffered alteration </>,
+      sm_info: <>Revolutionizing business operations with cutting-edge cloud technology – scalable secure, and reliable </>,
     },
     {
       id: 2,
       icon: "flaticon-technical-support",
       title: "Technical Support",
-      sm_info: <>There are many variations of available but the <br /> majority have suffered alteration </>,
+      sm_info: <>Beyond support – we provide peace of mind with proactive solutions and expert care  </>,
     },
 
   ],
@@ -63,13 +67,13 @@ const AboutAreaHomeOne = ({style_onpage}: any) => {
               <div className="tp-about-thumb wow fadeInRight" data-wow-duration=".8s" data-wow-delay=".4s">
                 <div className="tp-about-thumb-main overlay-anim w-img tp-thumb-common fix">
                   <div className="tp-thumb-common-overlay wow"></div>
-                  <Image src={about_thumb_1} alt="image-title" />
+                  <Image src={about_thumb_5} alt="image-title" />
                 </div>
                 <div className="tp-about-thumb-shape">
                   <div className="tp-about-thumb-shape-one">
                     <div className="about-image-1 overlay-anim tp-thumb-common fix">
                       <div className="tp-thumb-common-overlay wow"></div>
-                      <Image src={about_thumb_2} alt="image-title" />
+                      {/* <Image src={about_thumb_6} alt="image-title" /> */}
                     </div>
                   </div>
                   <div className="tp-about-thumb-shape-two">
@@ -77,7 +81,7 @@ const AboutAreaHomeOne = ({style_onpage}: any) => {
                   </div>
                 </div>
                 <div className="tp-about-exprience d-none d-xl-block">
-                  <h5 className="tp-about-exprience-title">{exprience_year}</h5>
+                  <h5 style={{color:'white'}}className="tp-about-exprience-title">{exprience_year}</h5>
                   <p>{exprience_title}</p>
                 </div>
               </div>
@@ -109,13 +113,13 @@ const AboutAreaHomeOne = ({style_onpage}: any) => {
                     <Link className="tp-btn" href="/about">{btn_text}</Link>
                   </div>
                   <div className="tp-about-avatar d-flex align-items-center">
-                    <div className="tp-about-avatar-thumb">
+                    {/* <div className="tp-about-avatar-thumb">
                       <Image src={avatar_img} alt="image-title" />
-                    </div>
-                    <div className="tp-about-avatar-info">
+                    </div> */}
+                    {/* <div className="tp-about-avatar-info">
                       <h5 className="tp-about-avatar-title">{name}</h5>
                       <span>{job_title}</span>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
               </div>

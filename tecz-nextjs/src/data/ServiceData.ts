@@ -17,27 +17,27 @@ interface  DataType{
 const service_data: DataType[] = [
   {
     id: 1,
-    alphabet: "G",
+    alphabet: "w",
     page: "home_1",
     img: service_img_1,
-    title: "Gaming and <br /> Entertainment",
-    sm_info:  "Sed et aliquam lectus. Etiam augulectus Suspendisse eget orci conv dignissim nibh eget, blandit lacus",
+    title: "Web Development<br /> Services",
+    sm_info:  "We design and develop high-quality websites tailored to your needs, from sleek landing pages to complex web applications. Our solutions are mobile-responsive, secure, and optimized for performance, ensuring a seamless user experience.",
   },
   {
     id: 2,
-    alphabet: "B",
+    alphabet: "E",
     page: "home_1",
     img: service_img_2,
-    title: "Business and <br />Finance",
-    sm_info:  "Sed et aliquam lectus. Etiam augulectus Suspendisse eget orci conv dignissim nibh eget, blandit lacus",
+    title: "Entertainment and <br /> Media Solutions ",
+    sm_info:  "We deliver cutting-edge solutions for entertainment and media, including content management, streaming platforms, and interactive experiences. Our services ensure high-quality, engaging, and accessible content across all devices.",
   },
   {
     id: 3,
-    alphabet: "R",
+    alphabet: "B",
     page: "home_1",
     img: service_img_3,
-    title: "Retails and <br /> Distribution",
-    sm_info:  "Sed et aliquam lectus. Etiam augulectus Suspendisse eget orci conv dignissim nibh eget, blandit lacus",
+    title: "Business  <br />  Solutions ",
+    sm_info:  "Our business solutions streamline processes, enhance productivity, and drive growth. From CRM and ERP systems to analytics and automation, we provide tailored tools to meet your unique business needs and businesses stay ahead in a competitive market.",
   },
   // for home 04 
   {

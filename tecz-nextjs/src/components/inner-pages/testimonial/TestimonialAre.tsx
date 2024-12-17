@@ -10,7 +10,9 @@ const TestimonialAre = () => {
   return (
     <>
       <section className="testimonial-area tp-testimonial-inner pt-120 pb-90">
+       
         <div className="container">
+        
           <div className="row">
             {testimonial_data.map((item, i) =>
               <div key={i} className="col-lg-6">

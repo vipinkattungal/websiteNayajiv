@@ -11,7 +11,7 @@ const video_content = {
   phone: "+91 7907097373",
   sub_title: "Check Our Benifits",
   title: "We're Partner of Your Innovations",
-  info: "Nayajiv Technologies is a Bangalore-based software development company offering innovative solutions to businesses worldwide. We specialize in web development, mobile app development, CRM, ERP, AI integration, and enterprise software. Our expert team delivers custom solutions tailored to optimize operations, enhance productivity, and foster growth.With expertise across various industries including healthcare, finance, and retail, we help businesses stay competitive by providing scalable, secure, and efficient technology solutions. Our focus on customer satisfaction and long-term partnerships ensures seamless integration and ongoing support.",
+  info: "Nayajiv Technologies, a Bangalore-based software development company, brings over 15+ years of industry experience in delivering innovative and cutting-edge technology solutions to businesses worldwide. Since our inception, we have been dedicated to helping organizations transform their operations through tailored solutions that drive growth, enhance productivity, and optimize efficiency.Over the last decade and a half, we have grown into a trusted technology partner for businesses across healthcare, finance, retail, and other industries. From humble beginnings, our journey has been fueled by a passion for innovation, a commitment to quality, and a focus on solving real-world challenges with technology.",
   title_info: "Driving Digital Transformation Through Custom Solutions",
   feature_1: "Innovation",
   feature_2: "Quality",

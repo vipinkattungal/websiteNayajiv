@@ -151,8 +151,8 @@ type copy_right_text_type = {
 
 const copy_right_text: copy_right_text_type = {
   copy_right: <>  
-    <span>Copyright © {new Date().getFullYear()} Tecz by
-      <Link target="_blank" href="https://themeforest.net/user/hixstudio/portfolio"> {' '}HixStudio{' '}</Link>
+    <span>Copyright © {new Date().getFullYear()} Nayajiv by
+      <Link target="_blank" href="https://themeforest.net/user/hixstudio/portfolio"> {' '}Nayajiv Technologies{' '}</Link>
       All Rights Reserved </span>
   </>
 }

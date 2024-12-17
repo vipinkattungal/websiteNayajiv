@@ -11,6 +11,7 @@ import StepAreaHomeTwo from '@/components/homes/multi-page/home-2/StepAreaHomeTw
 import BottomCtaAreaHomeTwo from '@/components/homes/multi-page/home-2/BottomCtaAreaHomeTwo'; 
 import HeroAreaHomeTwo from '@/components/homes/multi-page/home-2/HeroAreaHomeTwo'; 
 import HeaderOne from '@/layout/headers/HeaderOne';
+import MissionVisionSection from "./mission";
 const About = () => {
   return (
     <>
@@ -24,6 +25,7 @@ const About = () => {
         {/* <CounterAreaHomeOne /> */}
         <StepAreaHomeTwo/>
         {/* <ManagementAreaHomeOne /> */}
+        <MissionVisionSection />
         <AboutTeamArea />
         <BottomCtaAreaHomeTwo />
       </main>

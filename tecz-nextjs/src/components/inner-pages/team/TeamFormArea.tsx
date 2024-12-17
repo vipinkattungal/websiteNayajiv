@@ -41,7 +41,7 @@ const team_form_content: DataType = {
       icon: "flaticon-location-1",
       title: "Our Location",
       target: "https://www.google.com/maps/@45.6496054,13.7655154,184a,35y,81.61h,44.96t/data=!3m1!1e3?entry=ttu",
-      info: "45 Dream street Austria",
+      info: "E-1, Beech, MANYATA EMBASSY BUSINESS PARK, Outer Ring Road Ground Floor, Nagavara, Bengaluru, Karnataka,India",
     },
 
   ]

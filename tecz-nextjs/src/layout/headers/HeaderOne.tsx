@@ -61,10 +61,10 @@ const HeaderOne = ({ style, onePageHomeOne, onePageHomeTwo }: styleType) => {
                       </button>
                     </div>
                     <div className="tp-header-cart ml-30">
-                      <button className="tp-header-cart-btn cartmini-open-btn p-relative" onClick={() => setCartOpen(true)} type="button">
+                      {/* <button className="tp-header-cart-btn cartmini-open-btn p-relative" onClick={() => setCartOpen(true)} type="button">
                         <i className="flaticon-shopping-cart"></i>
                         <span>{productItem.length}</span>
-                      </button>
+                      </button> */}
                     </div>
                     <div className="offcanvas-btn d-xl-none ml-20">
                       <button className="offcanvas-open-btn" onClick={() => setOpenCanvas(true)}>

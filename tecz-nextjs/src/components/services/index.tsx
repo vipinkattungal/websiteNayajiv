@@ -9,11 +9,12 @@ import BrandAreaHomeThree from '../homes/multi-page/home-3/BrandAreaHomeThree';
 import TeamFormArea from '../inner-pages/team/TeamFormArea';
 import CtaAreaHomeOne from '../homes/multi-page/home/CtaAreaHomeOne';
 import FooterOne from '@/layout/footers/FooterOne';
+import HeaderOne from "@/layout/headers/HeaderOne";
 
 const Services = () => {
   return (
     <>
-      <HeaderTwo />
+      <HeaderOne />
       <main>
         <Breadcrumb top_title='Services' title='Our Services' />
         <FeatureAreaHomeOne style={true} />

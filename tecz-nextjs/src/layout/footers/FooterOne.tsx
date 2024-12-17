@@ -4,7 +4,7 @@ import Link from 'next/link';
 import React from 'react';
 
 
-import footer_logo from "@/assets/img/logo/logo.png";
+import footer_logo from "@/assets/img/logo/footerlogo.png";
 import footer_red_logo from "@/assets/img/logo/logo-red-2.png";
 import footer_gallery_img_1 from "@/assets/img/footer/one/gallery/fw-g-1.jpg";
 import footer_gallery_img_2 from "@/assets/img/footer/one/gallery/fw-g-2.jpg";
@@ -52,7 +52,7 @@ const footer_one: DataType = {
   ],
   footer_link_title: "Our Navigation",
   footer_link: [
-    "About Tecz",
+    "About Nayajiv Technologies",
     "Meet the Team",
     "News & Media",
     "Our Projects",

@@ -28,8 +28,8 @@ const service_data: DataType[] = [
     alphabet: "E",
     page: "home_1",
     img: service_img_2,
-    title: "Entertainment and <br /> Media Solutions ",
-    sm_info:  "We deliver cutting-edge solutions for entertainment and media, including content management, streaming platforms, and interactive experiences. Our services ensure high-quality, engaging, and accessible content across all devices.",
+    title: "Entertainment <br /> Animation,Media Solutions ",
+    sm_info:  "We deliver cutting-edge solutions for entertainment and media(Animation), including content management, streaming platforms, and interactive experiences. Our services ensure high-quality, engaging, and accessible content across all devices.",
   },
   {
     id: 3,

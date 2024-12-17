@@ -17,27 +17,47 @@ interface DataType {
 const offering_content: DataType = {
   sub_title: "What We're Offering",
   title: <>We Provide Exclusive Service <br /> For Your Business</>,
-  info: "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. quis nostrud exercitation ullamco laboris",
+  info: "Nayajiv Technologies specializes in building web and mobile applications, AI solutions, UI/UX design, animations, digital marketing, and data analytics. we deliver scalable, secure, and innovative solutions that drive business growth and success.",
   offering_data: [
     {
       id: 1,
-      title: "Website Development",
-      info: "Donec suscipit ante ipsum. Donec convallis quality torto",
+      title: "Web Development",
+      info: "Building responsive, secure, and scalable websites tailored to your business needs",
     },
     {
       id: 2,
-      title: "Ui/Ux Designing",
-      info: "Donec suscipit ante ipsum. Donec convallis quality torto",
+      title: "Mobile App Development",
+      info: "Creating user-friendly, high-performance mobile apps for iOS and Android",
     },
     {
       id: 3,
-      title: "Digital Marketing",
-      info: "Donec suscipit ante ipsum. Donec convallis quality torto",
+      title: "Custom software",
+      info: "Developing tailored, scalable, and secure software solutions for business",
     },
     {
       id: 4,
+      title: "Ui/Ux Designing",
+      info: "Crafting intuitive and visually appealing designs for seamless user experiences",
+    },
+    {
+      id: 5,
+      title: "Digital Marketing",
+      info: "Driving growth with targeted strategies for SEO, social media, and online campaigns",
+    },
+    {
+      id: 6,
       title: "Data Analysis",
-      info: "Donec suscipit ante ipsum. Donec convallis quality torto",
+      info: "Extracting valuable insights from data to support decision-making and optimize business strategies",
+    },
+    {
+      id: 7,
+      title: "Animation and media",
+      info: "Creating engaging animations and multimedia content to enhance brand storytelling and user experience.",
+    },
+    {
+      id: 8,
+      title: "AI Development",
+      info: "Building intelligent solutions with machine learning and AI to automate processes and drive innovation",
     },
   ]
 }

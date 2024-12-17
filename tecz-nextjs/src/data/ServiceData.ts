@@ -21,7 +21,7 @@ const service_data: DataType[] = [
     page: "home_1",
     img: service_img_1,
     title: "Web Development<br /> Services",
-    sm_info:  "We design and develop high-quality websites tailored to your needs, from sleek landing pages to complex web applications. Our solutions are mobile-responsive, secure, and optimized for performance, ensuring a seamless user experience. With a focus on modern design principles and cutting-edge technology, we create digital experiences that drive engagement and deliver measurable results.",
+    sm_info:  "We design and develop high-quality websites tailored to your needs, from sleek landing pages to complex web applications. Our solutions are mobile-responsive, secure, and optimized for performance, ensuring a seamless user experience.",
   },
   {
     id: 2,

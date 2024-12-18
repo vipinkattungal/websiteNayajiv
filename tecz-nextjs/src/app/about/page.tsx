@@ -3,7 +3,7 @@ import Wrapper from '@/layout/Wrapper';
 import About from '@/components/inner-pages/about';
 
 export const metadata = {
-  title: "About Tecz - IT Solutions & Technology React Next js Template",
+  title: "About Nayajiv Technologies - IT Solutions & Technology ",
 };
 
 const index = () => {

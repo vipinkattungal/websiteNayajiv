@@ -41,7 +41,7 @@ const footer_one: DataType = {
       id: 2,
       link: "mailto:",
       icon: "fa-solid fa-envelope",
-      contact_info: "NayajivTechnologies@gmail.com",
+      contact_info: "Info@NayajivTechnologies.com",
     },
     {
       id: 3,

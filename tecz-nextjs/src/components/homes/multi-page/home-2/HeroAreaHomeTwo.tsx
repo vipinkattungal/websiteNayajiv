@@ -13,11 +13,11 @@ type DataType = {
 
 const hero_content: DataType = {
   title_1: "NAYAJIV",
-  title_2: "& CREATIVE",
+  title_2: "CREATIVE",
   title_3: "SOLUTION",
   info: <>Web designing in a powerful way of just not an only <br /> professions, however, in a passion.</>,
   phone: "+2700 231 798 78",
-  email: "teczhelp@gmail.com",
+  email: "Info@Nayajivtechnologies.com",
 }
 const { title_1, title_2, title_3, info, phone, email } = hero_content
 

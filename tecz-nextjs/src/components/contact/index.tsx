@@ -1,13 +1,13 @@
 import React from 'react';
 import ContactArea from './ContactArea';
 import FooterOne from '@/layout/footers/FooterOne';
-import HeaderTwo from '@/layout/headers/HeaderTwo';
+import HeaderOne from '@/layout/headers/HeaderOne';
 import Breadcrumb from '../common/breadcrumb/breadcrumb';
 
 const Contact = () => {
   return (
     <>
-      <HeaderTwo />
+      <HeaderOne />
       <main>
         <Breadcrumb top_title='Contact Us' title='Contact Us' />
         <ContactArea />

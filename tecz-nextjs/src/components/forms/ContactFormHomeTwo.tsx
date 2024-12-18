@@ -5,6 +5,7 @@ import { toast } from 'react-toastify';
 import * as yup from "yup";
 import { useForm } from "react-hook-form";
 import { yupResolver } from '@hookform/resolvers/yup';
+import emailjs from 'emailjs-com'; // Import EmailJS
 
 interface FormData {
   name: string;
@@ -23,16 +24,22 @@ const schema = yup
   .required();
 
 
-const ContactFormHomeTwo = () => {
-
-  const { register, handleSubmit, reset, formState: { errors }, } = useForm<FormData>({ resolver: yupResolver(schema), });
-  const onSubmit = (data: FormData) => {
-    const notify = () => toast("Message send successful");
-    notify();
-    reset();
-    console.log(data);
-  };
-
+  const ContactFormHomeTwo = () => {
+    const { register, handleSubmit, reset, formState: { errors }, } = useForm<FormData>({ resolver: yupResolver(schema) });
+    
+    const onSubmit = (data: FormData) => {
+      // Send email via EmailJS
+      emailjs.send('service_za9gle1', 'template_8add6lp', data, 'Vm-mtoY-CkiH7x64J')
+        .then((response) => {
+          toast("Message sent successfully");
+          reset(); // Reset the form
+          console.log(response);
+        })
+        .catch((error) => {
+          toast("Failed to send message");
+          console.error(error);
+        });
+    };
 
 
   return (

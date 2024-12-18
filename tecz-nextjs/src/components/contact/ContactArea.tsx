@@ -7,22 +7,16 @@ import main_bg from "@/assets/img/thumbs/contact-main-bg-1.jpg";
 const contact_content = {
   sub_title: "Let's Talk With Us",
   title: "Grow Your Business With Our Expertise",
-  info: "System is a term used to refer to an organized collection symbols and processes that may be used to operate on such symbols.",
+  info: "Leverage our expertise to accelerate your business growth with tailored, innovative technology solutions that enhance efficiency, drive engagement, and deliver lasting results.",
   location_data: [
     {
       id: 1,
-      location_title: "New York",
-      address: "Melbourn Rd United",
-      phone: "+2-345-257-5467",
-      email: "hello@teczinfo.com",
-    },
-    {
-      id: 2,
-      location_title: "Australia",
-      address: "Sydne 45 Broklyn",
-      phone: "+1-365-857-0467",
-      email: "info@tecz.com",
-    },
+      location_title: "Bangalore",
+      address: "E-1, Beech, MANYATA EMBASSY BUSINESS PARK, Bengaluru, Karnataka",
+      phone: "+91-7907097373",
+      email: "info@Nayajivtechnologies.com",
+    }
+    
   ]
 }
 const { sub_title, title, info, location_data } = contact_content

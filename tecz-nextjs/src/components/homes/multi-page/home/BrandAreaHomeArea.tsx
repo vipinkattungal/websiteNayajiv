@@ -2,6 +2,7 @@ import React from 'react';
 import Image, { StaticImageData } from 'next/image';
 
 import brand_img_8 from "@/assets/img/brand/one/dt1.png";
+import brand_img_9 from "@/assets/img/brand/one/crocs.png";
 import brand_img_1 from "@/assets/img/brand/one/brand-logo-1.png";
 import brand_img_2 from "@/assets/img/brand/one/brand-logo-2.png";
 import brand_img_3 from "@/assets/img/brand/one/brand-logo-3.png";
@@ -21,6 +22,7 @@ const brand_content: DataType = {
 Our Trusted Partnerships<br /> and Success Stories</>,
   brand_data: [
     brand_img_8,
+    brand_img_9,
     brand_img_2,
     brand_img_3,
     brand_img_4,

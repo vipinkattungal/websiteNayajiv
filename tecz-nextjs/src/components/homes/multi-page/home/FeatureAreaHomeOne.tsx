@@ -24,14 +24,14 @@ const feature_data: DataType[] = [
     fade: "fadeInUp",
     icon: "flaticon-search-engine",
     title: <>Mobile App <br /> Development</>,
-    sm_info: "We specialize in crafting intuitive, high-performance mobile applications for iOS and Android. Our solutions are designed to meet your business goals, offering seamless user experiences, robust functionality, and scalability. Whether it's a native app or a cross-platform solution, we bring your ideas to life with precision and innovation",
+    sm_info: "We specialize in crafting intuitive, high-performance mobile applications for iOS and Android. Our solutions are designed to meet your business goals, offering seamless user experiences, robust functionality, and scalability. Whether it's a native app or a cross-platform solution",
   },
   {
     id: 3,
     fade: "fadeInLeft",
     icon: "flaticon-speed",
     title: <>AI <br /> Powered Solution</>,
-    sm_info: "Leverage the power of artificial intelligence to transform your business. Our AI-powered solutions are designed to enhance efficiency, automate processes, and deliver data-driven insights. From predictive analytics to intelligent automation, we create innovative systems that empower smarter decision-making and drive growth.",
+    sm_info: "Leverage the power of artificial intelligence to transform your business. Our AI-powered solutions are designed to enhance efficiency, automate processes, and deliver data-driven insights. From predictive analytics to intelligent automation, we create innovative systems that empower smarter decision-making.",
   },
 ]
 

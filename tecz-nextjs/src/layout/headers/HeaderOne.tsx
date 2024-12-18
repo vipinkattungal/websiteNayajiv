@@ -8,7 +8,7 @@ import UseSticky from '@/hooks/UseSticky';
 import { useSelector } from "react-redux";
 import OnPageMenu from './Menu/OnPageMenu';
 import LogoHomeOne from "@/assets/img/logo/logo.png";
-import njlogo from "@/assets/img/logo/NAYAJIV_2024.png";
+import njlogo from "@/assets/img/logo/footerlogo.png";
 
 import OnePageOffcanvas from './Menu/OnePageOffcanvas';
 import HeaderCart from '@/components/common/HeaderCart';

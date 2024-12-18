@@ -31,7 +31,7 @@ type DataType = {
 }
 
 const about_content: DataType = {
-  exprience_year: '25',
+  exprience_year: '15+',
   exprience_title: <>Years <br /> Experience</>,
   sub_title: "Hey! We Are Nayajiv",
   title: "We Always Try to Give Smart Solution For Business",

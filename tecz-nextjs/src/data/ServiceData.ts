@@ -29,15 +29,15 @@ const service_data: DataType[] = [
     page: "home_1",
     img: service_img_2,
     title: "Entertainment <br /> Animation,Media Solutions ",
-    sm_info:  "We deliver cutting-edge solutions for entertainment and media(Animation), including content management, streaming platforms, and interactive experiences. Our services ensure high-quality, engaging, and accessible content across all devices.",
+    sm_info:  "We deliver cutting-edge solutions for entertainment and Animation, including content management, streaming platforms, and interactive experiences. Our services ensure high-quality, and accessible content across all devices.",
   },
   {
     id: 3,
     alphabet: "B",
     page: "home_1",
     img: service_img_3,
-    title: "Business  <br />  Solutions ",
-    sm_info:  "Our business solutions streamline processes, enhance productivity, and drive growth. From CRM and ERP systems to analytics and automation, we provide tailored tools to meet your unique business needs and businesses stay ahead in a competitive market.",
+    title: "Business <br/> Smart <br />  Solutions ",
+    sm_info:  "Our business solutions streamline processes, enhance productivity, and drive growth. From CRM and ERP systems to analytics and automation, we provide tailored tools to meet your business needs and businesses stay ahead in a competitive market.",
   },
   // for home 04 
   {

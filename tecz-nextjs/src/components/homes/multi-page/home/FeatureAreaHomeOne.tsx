@@ -17,21 +17,21 @@ const feature_data: DataType[] = [
     fade: "fadeInRight",
     icon: "flaticon-solution-1",
     title: <>Web <br /> Development</>,
-    sm_info: "Our web development services focus on creating dynamic, responsive, and user-friendly websites tailored to your business needs. From sleek designs to seamless functionality, we combine cutting-edge technologies with best practices to deliver exceptional online experiences that drive growth and engagement",
+    sm_info: "We specialize in building responsive, dynamic, and user-friendly websites tailored to meet your unique business goals. Combining cutting-edge design with seamless functionality, we leverage modern technologies to deliver exceptional digital solutions that enhance engagement, foster growth, and drive measurable result.",
   },
   {
     id: 2,
     fade: "fadeInUp",
     icon: "flaticon-search-engine",
     title: <>Mobile App <br /> Development</>,
-    sm_info: "We specialize in crafting intuitive, high-performance mobile applications for iOS and Android. Our solutions are designed to meet your business goals, offering seamless user experiences, robust functionality, and scalability. Whether it's a native app or a cross-platform solution",
+    sm_info: "We specialize in crafting intuitive, high-performance mobile applications for iOS, Android, and cross-platform use. Designed to meet your business goals, our solutions offer seamless user experiences, advanced functionality, and scalability, ensuring robust performance and alignment with your objectives.",
   },
   {
     id: 3,
     fade: "fadeInLeft",
     icon: "flaticon-speed",
     title: <>AI <br /> Powered Solution</>,
-    sm_info: "Leverage the power of artificial intelligence to transform your business. Our AI-powered solutions are designed to enhance efficiency, automate processes, and deliver data-driven insights. From predictive analytics to intelligent automation, we create innovative systems that empower smarter decision-making.",
+    sm_info: "Harness the potential of artificial intelligence to revolutionize your business operations. Our AI-driven solutions are tailored to boost efficiency, streamline processes, and provide actionable insights. From intelligent automation to predictive analytics, we develop cutting-edge systems that enable smarter, data-informed decision-making.",
   },
 ]
 

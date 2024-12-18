@@ -1,6 +1,6 @@
 'use client'
 import React, { useEffect, useState } from 'react';
-import BlackLogo from "@/assets/img/logo/logo-black.png"
+import BlackLogo from "@/assets/img/logo/logomob.png"
 import Image from 'next/image';
 import Link from 'next/link';
 import ToggleIcon from '@/svg/HomeOneIcons/ToggleIcon';
@@ -52,7 +52,7 @@ const Offcanvas = ({ openCanvas, setOpenCanvas }: any) => {
                 </div>
                 <div className="side-info-contact">
                   <span>we are here</span>
-                  <p>1489 Langley Ave <br /> Grand Forks Afb, North.</p>
+                  <p>E-1, Beech, MANYATA EMBASSY BUSINESS PARK <br />Outer Ring Road Ground Floor, Nagavara, Bengaluru, Karnataka</p>
                 </div>
                 <div className="side-info-social"> 
                   <SocialLinks /> 

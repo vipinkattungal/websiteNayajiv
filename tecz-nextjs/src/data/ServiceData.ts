@@ -36,8 +36,8 @@ const service_data: DataType[] = [
     alphabet: "B",
     page: "home_1",
     img: service_img_3,
-    title: "Business <br/> Smart <br />  Solutions ",
-    sm_info:  "Our business solutions streamline processes, enhance productivity, and drive growth. From CRM and ERP systems to analytics and automation, we provide tailored tools to meet your business needs and businesses stay ahead in a competitive market.",
+    title: "Business <br/>Smart <br />  Solutions ",
+    sm_info:  "Our business solutions streamline processes, enhance productivity, and drive growth. From CRM and ERP systems to analytics and automation, we provide tailored tools to meet your unique business needs and businesses stay ahead in a competitive market.",
   },
   // for home 04 
   {

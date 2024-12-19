@@ -35,7 +35,7 @@ const footer_one: DataType = {
       id: 1,
       link: "tel:",
       icon: "fa-solid fa-square-phone",
-      contact_info: "+92 487 (9098) 98765",
+      contact_info: "+91 7907097373 ",
     },
     {
       id: 2,

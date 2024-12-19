@@ -27,14 +27,14 @@ const team_form_content: DataType = {
       icon: "flaticon-phone-call",
       title: "Call Us Anytime",
       target: "tel:01234567",
-      info: "+124 4563 5687",
+      info: "+91 7907097373",
     },
     {
       id: 2,
       icon: "flaticon-email-1",
       title: "Write to Us",
-      target: "mailto:teczinfo@gmail.com",
-      info: "teczinfo@gmail.com",
+      target: "mailto:Info@NayajivTechnologies.com",
+      info: "Info@NayajivTechnologies.com",
     },
     {
       id: 3,

@@ -2,7 +2,7 @@
 import Link from 'next/link';
 import React, { useState } from 'react';
 import Image, { StaticImageData } from 'next/image';
-import project_img_1 from "@/assets/img/project/project-thumb-4.jpg";
+import project_img_1 from "@/assets/img/project/1.png";
 import project_img_2 from "@/assets/img/project/project-thumb-2.jpg";
 import project_img_3 from "@/assets/img/project/project-thumb-3.jpg";
 import project_img_4 from "@/assets/img/project/project-thumb-1.jpg";
@@ -22,19 +22,19 @@ interface DataType {
 }
 
 const project_content: DataType = {
-  sub_title: 'Recently completed work',
-  title: 'Check Our latest projects ',
+  sub_title: 'We are Nayajivens',
+  title: 'Services That Drive Success',
   project_data: [
     {
       id: 1,
       img: project_img_1,
-      title: "Business Growth Planning",
+      title: "Business Growth Solutions",
       meta_tag: "Brain",
     },
     {
       id: 2,
       img: project_img_2,
-      title: "Digital Soloution",
+      title: "Web & mobile development",
       meta_tag: "Software",
     },
     {
@@ -46,7 +46,7 @@ const project_content: DataType = {
     {
       id: 4,
       img: project_img_4,
-      title: "Best Business Solution",
+      title: "AI and Automation",
       meta_tag: "Data Analysis",
     },
   ]

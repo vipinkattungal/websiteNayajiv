@@ -10,6 +10,8 @@ import brand_img_4 from "@/assets/img/brand/one/brand-logo-4.png";
 import brand_img_5 from "@/assets/img/brand/one/brand-logo-5.png";
 import brand_img_6 from "@/assets/img/brand/one/brand-logo-6.png";
 import brand_img_7 from "@/assets/img/brand/one/brand-logo-7.png";
+import brand_img_10 from "@/assets/img/brand/one/manyavar.png";
+
 
 
 type DataType = {
@@ -29,6 +31,7 @@ Our Trusted Partnerships<br /> and Success Stories</>,
     brand_img_5,
     brand_img_6,
     brand_img_7,
+    brand_img_10
   ]
 
 }

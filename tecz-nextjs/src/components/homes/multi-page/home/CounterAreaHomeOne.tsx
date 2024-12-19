@@ -13,26 +13,26 @@ const counter_data: DataType[] = [
   {
     id: 1,
     icon: "flaticon-project-management",
-    counter_number: 160,
-    title: "Project Completed",
+    counter_number: 15,
+    title: "Industries served",
   },
   {
     id: 2,
     icon: "flaticon-consultant",
-    counter_number: 60,
-    title: "IT Specialist",
+    counter_number: 150,
+    title: "Project Accoumblished ",
   },
   {
     id: 3,
     icon: "flaticon-project-management",
-    counter_number: 200,
-    title: "Happy Clients",
+    counter_number: 100,
+    title: "On-Time Delivary",
   },
   {
     id: 4,
     icon: "flaticon-solution-1",
-    counter_number: 256,
-    title: "Smart Solution",
+    counter_number: 98,
+    title: "Happy Clients",
   },
 ]
 const CounterAreaHomeOne = () => {

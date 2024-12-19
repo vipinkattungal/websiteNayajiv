@@ -54,7 +54,7 @@ const testimonial_content: DataType = {
       id: 4,
       img: testimonial_img_2,
       name: "christofer lof",
-      job_title: "Co Founder",
+      job_title: "Software Consultant ",
       sm_des: "The team at Nayajiv Technologies helped us launch our AI-powered solutions, transforming how we operate. From start to finish, they were extremely professional, delivered on time, and provided exceptional ongoing support. We look forward to continuing our partnership with them.",
     },
   ]

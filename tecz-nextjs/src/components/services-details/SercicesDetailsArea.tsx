@@ -59,7 +59,7 @@ const services_content: DataType = {
       id: 2,
       icon: "fa-sharp fa-light fa-envelope",
       title: "Write to Us",
-      info: "teczinfo@gmail.com",
+      info: "Info@NayajivTechnologies.com",
       target: "",
     },
     {

@@ -15,7 +15,7 @@ const video_content = {
   title_info: "Driving Digital Transformation Through Custom Solutions",
   feature_1: "Innovation",
   feature_2: "Quality",
-  name: "Vipin k",
+  name: "Vipin kattungal",
   job_title: "Co Founder",
 
 }

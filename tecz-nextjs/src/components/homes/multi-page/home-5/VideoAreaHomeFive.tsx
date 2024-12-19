@@ -15,7 +15,7 @@ const video_content = {
   title_info: "Driving Digital Transformation Through Custom Solutions",
   feature_1: "Innovation",
   feature_2: "Quality",
-  name: "Harry Newman",
+  name: "Vipin k",
   job_title: "Co Founder",
 
 }

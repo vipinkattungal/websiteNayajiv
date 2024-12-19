@@ -2,7 +2,7 @@
 import Link from 'next/link';
 import React, { useState } from 'react';
 import Image, { StaticImageData } from 'next/image';
-import project_img_1 from "@/assets/img/project/1.png";
+import project_img_1 from "@/assets/img/project/project-thumb-1.jpg";
 import project_img_2 from "@/assets/img/project/project-thumb-2.jpg";
 import project_img_3 from "@/assets/img/project/project-thumb-3.jpg";
 import project_img_4 from "@/assets/img/project/project-thumb-1.jpg";

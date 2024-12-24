@@ -12,7 +12,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <meta name="description" content="Tecz - Technology & IT Solutions React Next js Template for various types of Sass Products, Software, Startups, App showcases,s and related products/services" />
+        <meta name="description" content="Nayajiv Technologies" />
         <link rel="icon" href="favicon.ico" sizes="512x512" />
         <link
           rel="stylesheet"

@@ -35,7 +35,7 @@ const about_content: DataType = {
   exprience_title: <>Years <br /> Experience</>,
   sub_title: "Hey! We Are Nayajiv",
   title: "We Always Try to Give Smart Solution For Business",
-  sm_des: "At Nayjiv, we are committed to delivering innovative and intelligent software solutions that empower businesses to thrive in a competitive landscape. By combining cutting-edge technology with strategic insights, we craft tailored systems designed to streamline operations, enhance productivity, and drive sustainable growth. Your success is our priority, and we always strive to deliver smarter, future-ready solutions for your business",
+  sm_des: "At Nayajiv, we are committed to delivering innovative and intelligent software solutions that empower businesses to thrive in a competitive landscape. By combining cutting-edge technology with strategic insights, we craft tailored systems designed to streamline operations, enhance productivity, and drive sustainable growth. Your success is our priority, and we always strive to deliver smarter, future-ready solutions for your business",
   about_info_data: [
     {
       id: 1,

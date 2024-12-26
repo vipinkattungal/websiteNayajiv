@@ -8,7 +8,7 @@ import team_avatar_4 from "@/assets/img/team/team-2-thumb-4.jpg";
 
 import team_avatar_3_1 from "@/assets/img/team/ak.jpg";
 import team_avatar_3_2 from "@/assets/img/team/team-3-thumb-2.jpg";
-import team_avatar_3_3 from "@/assets/img/team/team-3-thumb-3.jpg";
+import team_avatar_3_3 from "@/assets/img/team/lal.jpg";
 import team_avatar_3_4 from "@/assets/img/team/team-3-thumb-4.jpg";
 import team_avatar_3_5 from "@/assets/img/team/four/team-4-thumb-3.jpg";
 import team_avatar_3_6 from "@/assets/img/team/vy.jpg";
@@ -60,21 +60,21 @@ const team_data: DataType[] = [
     id: 1,
     img: team_avatar_3_1,
     name: "Akash",
-    job_title: "CEO & Founder",
+    job_title: "CTO & CO-Founder",
     page: 'home_3'
   },
   {
     id: 2,
     img: team_avatar_3_6,
-    name: "Vyshak",
+    name: "Vysakh ",
     job_title: "CEO & Founder",
     page: 'home_3'
   },
   {
     id: 3,
     img: team_avatar_3_3,
-    name: "Lal",
-    job_title: "CEO & Founder",
+    name: "Lal Krishna",
+    job_title: "COO & CO-Founder",
     page: 'home_3'
   },
   {

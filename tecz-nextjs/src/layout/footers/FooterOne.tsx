@@ -4,7 +4,7 @@ import Link from 'next/link';
 import React from 'react';
 
 
-import footer_logo from "@/assets/img/logo/footerlogo.png";
+import footer_logo from "@/assets/img/logo/150x45 - Copy.png";
 import footer_red_logo from "@/assets/img/logo/logo-red-2.png";
 import footer_gallery_img_1 from "@/assets/img/footer/one/gallery/fw-g-1.jpg";
 import footer_gallery_img_2 from "@/assets/img/footer/one/gallery/fw-g-2.jpg";
@@ -89,7 +89,7 @@ const FooterOne = ({ style, style_inner }: any) => {
                         {style ?
                           <Image src={footer_red_logo} alt="fw-logo" />
                           :
-                          <Image src={footer_logo} alt="fw-logo" />
+                          <Image src={footer_logo} style={{width :'150px', height:'45px'}} alt="fw-logo" />
                         }
                       </Link>
                     </div>

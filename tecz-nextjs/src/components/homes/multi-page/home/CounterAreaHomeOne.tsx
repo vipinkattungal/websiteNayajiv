@@ -20,7 +20,7 @@ const counter_data: DataType[] = [
     id: 2,
     icon: "flaticon-consultant",
     counter_number: 150,
-    title: "Project Accoumblished ",
+    title: "Project Accomplished ",
   },
   {
     id: 3,

@@ -3,7 +3,7 @@ import Wrapper from '@/layout/Wrapper';
 import HomeTwo from '@/components/homes/multi-page/home-2';
 
 export const metadata = {
-  title: "Home Two Tecz - IT Solutions & Technology React Next js Template",
+  title: "Nayajiv Technologies - IT Solutions & Technology React Next js Template",
 };
 
 

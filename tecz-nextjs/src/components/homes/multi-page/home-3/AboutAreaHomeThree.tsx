@@ -11,7 +11,7 @@ import Link from 'next/link';
 const about_content = {
   project_title: "Project Completed",
   project_count: 1700,
-  sub_title: "Welcome to Tecz",
+  sub_title: "Welcome to Nayajiv Technologies",
   title: <>Easy Solutions For Your <br /> IT Problems</>,
   info: <>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiustempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse <br /> abore et dolore magna </>,
   title_2: "Deliver awesome idea",

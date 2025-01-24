@@ -26,7 +26,7 @@ const counter_data: DataType[] = [
     id: 3,
     icon: "flaticon-project-management",
     counter_number: 100,
-    title: "On-Time Delivary",
+    title: "On-Time Delivery",
   },
   {
     id: 4,

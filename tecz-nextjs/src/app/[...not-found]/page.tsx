@@ -3,7 +3,7 @@ import Wrapper from "@/layout/Wrapper";
 
  
 export const metadata = {
-  title: "404 error || Tecz - IT Solutions & Technology React Next js Template",
+  title: "404 error || Nayajiv Technologies - IT Solutions & Technology ",
 };
 const index = () => {
   return (

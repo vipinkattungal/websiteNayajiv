@@ -3,7 +3,7 @@ import Wrapper from '@/layout/Wrapper';
 import Blog from '@/components/blogs/blog';
 
 export const metadata = {
-  title: "Blog Tecz - IT Solutions & Technology React Next js Template",
+  title: "Blog Nayajiv Technologies - IT Solutions & Technology React Next js Template",
 };
 
 

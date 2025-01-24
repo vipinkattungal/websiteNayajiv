@@ -3,7 +3,7 @@ import Wrapper from '@/layout/Wrapper';
 import React from 'react';
 
 export const metadata = {
-  title: "Testimonial Tecz - IT Solutions & Technology React Next js Template",
+  title: "Nayajiv Technologies - IT Solutions & Technology React Next js Template",
 };
 
 

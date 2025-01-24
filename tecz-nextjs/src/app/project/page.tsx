@@ -2,7 +2,7 @@
 import Project from '@/components/inner-pages/project';
 import Wrapper from '@/layout/Wrapper';
 export const metadata = {
-  title: "Project Tecz - IT Solutions & Technology React Next js Template",
+  title: "Nayajiv Technologies - IT Solutions & Technology React Next js Template",
 };
 
 

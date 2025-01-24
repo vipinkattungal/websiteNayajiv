@@ -9,7 +9,7 @@ import HeaderTwo from '@/layout/headers/HeaderTwo';
 import React from 'react';
 
 export const metadata = {
-  title: "Blog Details Tecz - IT Solutions & Technology React Next js Template",
+  title: "Blog Details Nayajiv Technologies - IT Solutions & Technology React Next js Template",
 };
 
 const index = ({ params }: { params: { id: number } }) => {

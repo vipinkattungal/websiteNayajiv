@@ -5,7 +5,7 @@ import React from 'react';
 
 
 export const metadata = {
-  title: "Blog Carousel Tecz - IT Solutions & Technology React Next js Template",
+  title: "Blog Carousel Nayajiv Technologies - IT Solutions & Technology ",
 };
 
 

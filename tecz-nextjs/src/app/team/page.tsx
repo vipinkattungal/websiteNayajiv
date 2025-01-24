@@ -3,7 +3,7 @@ import Wrapper from '@/layout/Wrapper';
 import Team from '@/components/inner-pages/team';
 
 export const metadata = {
-  title: "Our Team Tecz - IT Solutions & Technology React Next js Template",
+  title: "Nayajiv Technologies - IT Solutions & Technology React Next js Template",
 };
 
 const index = () => {

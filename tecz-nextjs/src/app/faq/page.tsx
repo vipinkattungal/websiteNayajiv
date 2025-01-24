@@ -2,7 +2,7 @@ import Wrapper from '@/layout/Wrapper';
 import Faq from '@/components/inner-pages/faq';
 
 export const metadata = {
-  title: "FAQ Tecz - IT Solutions & Technology React Next js Template",
+  title: "Nayajiv Technologies - IT Solutions & Technology ",
 };
 
 

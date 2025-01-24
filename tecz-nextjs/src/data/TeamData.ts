@@ -60,7 +60,7 @@ const team_data: DataType[] = [
     id: 1,
     img: team_avatar_3_1,
     name: "Akash",
-    job_title: "CTO & CO-Founder",
+    job_title: "CMO & CO-Founder",
     page: 'home_3'
   },
   {
@@ -74,7 +74,7 @@ const team_data: DataType[] = [
     id: 3,
     img: team_avatar_3_3,
     name: "Lal Krishna",
-    job_title: "COO & CO-Founder",
+    job_title: "CFO & CO-Founder",
     page: 'home_3'
   },
   {

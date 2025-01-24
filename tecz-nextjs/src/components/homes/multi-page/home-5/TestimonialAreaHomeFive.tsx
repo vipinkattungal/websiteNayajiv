@@ -26,7 +26,7 @@ interface DataType {
 
 const testimonial_content: DataType = {
   sub_title: "What Else Here",
-  title: "What They're Telling About Our Tecz",
+  title: "What They're Telling About Our Nayajiv Technologies",
   info: <>System is a term used to refer to an organ collection <br /> symbols and processes that may be operate on <br /> symbols. Perspiciatis omni</>,
   testimonial_data: [
     {

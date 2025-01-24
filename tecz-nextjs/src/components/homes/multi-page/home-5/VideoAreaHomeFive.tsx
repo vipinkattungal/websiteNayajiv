@@ -2,7 +2,7 @@
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import avatar_img from "@/assets/img/about/one/avatar-1.png";
+import avatar_img from "@/assets/img/about/one/vipin.jpg";
 import video_img_1 from "@/assets/img/about/five/about-5-thumb-1.jpg";
 import video_img_2 from "@/assets/img/about/five/about-5-thumb-2.jpg";
 
@@ -16,7 +16,7 @@ const video_content = {
   feature_1: "Innovation",
   feature_2: "Quality",
   name: "Vipin kattungal",
-  job_title: "Co Founder",
+  job_title: "CTO - Founder",
 
 }
 const { call_text, phone, sub_title, title, info, title_info, feature_1, feature_2, name, job_title } = video_content

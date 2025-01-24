@@ -5,7 +5,7 @@ import HomeFourOnePage from '@/components/homes/one-page/home-4-one-page';
 
 
 export const metadata = {
-  title: "Home Four Single Page Tecz - IT Solutions & Technology React Next js Template",
+  title: "Nayajiv Technologies - IT Solutions & Technology React Next js Template",
 };
 
 const index = () => {

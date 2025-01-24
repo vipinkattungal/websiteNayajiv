@@ -20,7 +20,7 @@ interface DataType {
 
 const hero_content: DataType = {
   sub_title: 'Solutions for your businesses ',
-  title: <><span>Inno</span>vating <br /> Tech Solution</>,
+  title: <><span>Inno</span>vating <br /> Nayajiv Technologies</>,
   btn_text: "Discover More",
   banner_social: [
     {
@@ -91,11 +91,11 @@ const HeroBannerHomeOne = ({style_onpage}: any) => {
       </section>
 
       {/* video modal start */}
-      <VideoPopup
+      {/* <VideoPopup
         isVideoOpen={isVideoOpen}
         setIsVideoOpen={setIsVideoOpen}
-        videoId={"Ml4XCF-JS0k"}
-      />
+        videoId={""}
+      /> */}
       {/* video modal end */}
     </>
   );

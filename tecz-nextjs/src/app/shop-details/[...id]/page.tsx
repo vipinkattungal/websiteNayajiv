@@ -20,7 +20,7 @@ const index = ({ params }: { params: { id: number } }) => {
     <Wrapper>
       <HeaderTwo />
       <main>
-        <Breadcrumb top_title='Product' title='Shop Details' />
+        <Breadcrumb top_title='Product' title='Nayajiv' />
         <ShopDetailsArea single_blog={single_blog} key={single_blog?.id} />
         <ReviewArea />
         <CtaAreaHomeOne />

@@ -19,7 +19,7 @@ interface DataType {
   job_title: string;
 }
 const about_content: DataType = {
-  sub_title: "Hey! We Are Tecz",
+  sub_title: "Hey! We Are Nayajiv Technologies",
   title: "We Always Try to Give Smart Solution For Business",
   info: "System is a term used to refer to an organized collection symbols and processes that may be used to operate on such symbols. Perspiciatis omnis natus error voupems accusa",
   feature_list: [

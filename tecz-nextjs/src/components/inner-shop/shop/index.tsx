@@ -9,7 +9,7 @@ const Shop = () => {
     <>
       <HeaderTwo />
       <main>
-        <Breadcrumb top_title="Products" title="Shop" />
+        <Breadcrumb top_title="Products" title="Nayajiv Technologies" />
         <ShopArea />
         <BottomCtaAreaHomeTwo />
       </main>

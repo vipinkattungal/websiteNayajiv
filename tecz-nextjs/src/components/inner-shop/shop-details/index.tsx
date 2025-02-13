@@ -11,7 +11,7 @@ const ShopDetails = () => {
     <>
       <HeaderTwo />
       <main>
-        <Breadcrumb top_title='Product' title='Shop Details' />
+        <Breadcrumb top_title='Product' title='Nayajiv Technologies' />
         <ShopDetailsArea />
         <ReviewArea />
         <CtaAreaHomeOne />

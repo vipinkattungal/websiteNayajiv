@@ -29,7 +29,7 @@ interface DataType {
   subscribe_info: string;
 }
 const footer_one: DataType = {
-  footer_info: "Desires to obtain pain of itself, because it is pain, but occasionally circum",
+  footer_info: "Innovate. Transform. Thrive",
   footer_contact_data: [
     {
       id: 1,

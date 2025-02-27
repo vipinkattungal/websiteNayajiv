@@ -36,7 +36,7 @@ const solve_content = {
     {
       id: 1,
       icon: "flaticon-smartwatch",
-      title: "Wearalable",
+      title: "Wearable",
       duration: ".6s",
     },
     {

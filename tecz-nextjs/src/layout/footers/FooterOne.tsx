@@ -68,7 +68,7 @@ const footer_one: DataType = {
     footer_gallery_img_6,
   ],
   subscribe_title: "Subscribe",
-  subscribe_info: "Our expertise, as well as our passion for web design, sets us agenciese",
+  subscribe_info: "Our expertise and passion for software development set us apart, enabling us to deliver innovative and high-quality solutions for businesses",
 
 }
 const { footer_info, footer_contact_data, footer_link_title, footer_link, gallery_title, gallery_images, subscribe_title, subscribe_info } = footer_one

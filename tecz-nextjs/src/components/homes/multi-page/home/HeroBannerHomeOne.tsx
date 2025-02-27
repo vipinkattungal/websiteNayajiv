@@ -24,15 +24,15 @@ const hero_content: DataType = {
   btn_text: "Discover More",
   banner_social: [
     {
-      link: "https://www.instagram.com",
+      link: "https://www.instagram.com/nayajivtechnologies/",
       title: "INSTAGRAM",
     },
     {
-      link: "http://twitter.com",
-      title: "TWITTER",
+      link: "https://www.linkedin.com/company/nayajiv-technologies",
+      title: "LINKED IN",
     },      
     {
-      link: "http://facebook.com",
+      link: "https://www.facebook.com/people/Nayajiv-Technologies/61573230481124/",
       title: "FACEBOOK",
     },
    

@@ -10,7 +10,7 @@ interface social_links_type {
 
 const social_links: social_links_type[] = [
   {
-    link: "http://facebook.com",
+    link: "https://www.facebook.com/people/Nayajiv-Technologies/61573230481124/",
     target: "_blank",
     icon: "fab fa-facebook-f",
   },
@@ -69,12 +69,12 @@ const social_links_2: social_links_type_2[] = [
     icon: "fa-brands fa-twitter",
   },
   {
-    link: "http://www.linkedin.com",
+    link: "https://www.linkedin.com/company/nayajiv-technologies",
     color: "footer-linkedin",
     icon: "fa-brands fa-linkedin-in",
   },
   {
-    link: "http://www.instagram.com",
+    link: "https://www.instagram.com/nayajivtechnologies/",
     color: "footer-insta",
     icon: "fa-brands fa-instagram",
   },
@@ -123,7 +123,7 @@ const team_social_data: DataType[] = [
   },
   {
     id: 3,
-    link: "http://linkedin.com",
+    link: "https://www.linkedin.com/company/nayajiv-technologies",
     icon: "fa-brands fa-linkedin-in",
   },
 ]
